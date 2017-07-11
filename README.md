@@ -1,3 +1,6 @@
+# Slides for presentation can be found [Here](https://github.com/LoganElliott/sot-app/blob/master/Mobile%20First%20Development.pdf)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
